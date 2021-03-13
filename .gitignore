@@ -12,3 +12,4 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+sandbox/caches/jars-8/0ecc2665333c1453b95492cca1a2abf8/kotlin-plugin.jar
